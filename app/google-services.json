@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "466061534624",
+    "firebase_url": "https://takehomeassignment09-emmal.firebaseio.com",
+    "project_id": "takehomeassignment09-emmal",
+    "storage_bucket": "takehomeassignment09-emmal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466061534624:android:6ec97b11fd464f03",
+        "android_client_info": {
+          "package_name": "com.example.cmltdstudent.takehomeassignment09_emmal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466061534624-7jhbe8drrap3dod9036vufetk40arorm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnE7jiFwVou-fsVyTBkLponK9P4SrCEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
